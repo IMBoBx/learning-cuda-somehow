@@ -1,8 +1,5 @@
 #include <cuda_runtime.h>
-#include <memory.h>
-#include <stdio.h>
 
-#include <cstdlib>
 #include <ctime>
 #include <cuda/cmath>
 #include <iostream>
