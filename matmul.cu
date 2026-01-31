@@ -3,7 +3,7 @@
 #include <cuda/cmath>
 #include <iostream>
 
-#include "cudaTimer.hpp"
+#include "cudaTimer.cuh"
 
 #define TILE_WIDTH 32
 

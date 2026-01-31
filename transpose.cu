@@ -2,7 +2,7 @@
 
 #include <cuda/cmath>
 
-#include "cudaTimer.hpp"
+#include "cudaTimer.cuh"
 
 #define THREADS_PER_BLOCK_X 32
 #define THREADS_PER_BLOCK_Y 32
